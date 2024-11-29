@@ -9,8 +9,8 @@
   <url>http://maven.apache.org</url>
   <dependencies>
   <configuration>
-                <source>17</source> <!-- Set to your desired Java version -->
-                <target>17</target> <!-- Set to your desired Java version -->
+                <source>jdk-17</source> <!-- Set to your desired Java version -->
+                <target>jdk-17</target> <!-- Set to your desired Java version -->
    </configuration>
     <dependency>
       <groupId>org.apache.maven</groupId>
